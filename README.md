@@ -10,3 +10,7 @@ space from the evil turtles trying to attack
 and invade earth.
 You need to be the defender of earth and try your
 best to stop the turtles by attacking all of them.
+
+Future Scope:
+
+Levels can be introduced with difficulty level increasing. Score Board of all players playing game can be included with the help of SQL.
