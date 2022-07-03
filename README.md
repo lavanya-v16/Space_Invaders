@@ -1,6 +1,7 @@
 # Space_Invaders
 Space Invaders game
 Entirely coded in Python.
+
 Description of game:
 
 This is a game that protects the outer
