@@ -1,5 +1,4 @@
 # Space_Invaders
-Space Invaders game
 
 Entirely coded in Python.
 
